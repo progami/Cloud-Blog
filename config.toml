@@ -1,0 +1,17 @@
+baseURL = 'https://codeupbyjarrar.com/'
+languageCode = 'en-us'
+title = 'CodeUp by Jarrar'
+
+# Novela settings
+theme = "hugo-theme-novela"
+
+paginate = 6
+
+[social]
+twitter= ""
+github= "https://github.com/progami"
+linkedin= "https://www.linkedin.com/in/jarrar-amjad/"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
